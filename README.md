@@ -23,5 +23,4 @@ I looked at the distribution of the data and the value counts for various catego
 ![Capturee](https://user-images.githubusercontent.com/48946643/177407553-942dcf41-dd0d-453d-a799-bbe8f0e89523.PNG)
 ![Capturell](https://user-images.githubusercontent.com/48946643/177408287-011a817a-8c34-44c2-a774-8a1640e13191.PNG)
 ![Captureeee](https://user-images.githubusercontent.com/48946643/177408350-db829240-cb2c-4951-9d76-ef32b749c3a4.PNG)
-
-![Capturey](https://user-images.githubusercontent.com/48946643/177408611-e182f265-65e3-414a-a9e0-1a607d1d0dd7.PNG)
+![Capture8](https://user-images.githubusercontent.com/48946643/177408687-b7e9aff9-3c49-4e90-bf6a-800796b05fa1.PNG)
