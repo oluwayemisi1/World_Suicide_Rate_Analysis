@@ -22,5 +22,4 @@ I looked at the distribution of the data and the value counts for various catego
 ![Capture](https://user-images.githubusercontent.com/48946643/177407333-43e367c2-b082-400e-8f68-674d31b27655.PNG)
 ![Capturee](https://user-images.githubusercontent.com/48946643/177407553-942dcf41-dd0d-453d-a799-bbe8f0e89523.PNG)
 ![Capture](https://user-images.githubusercontent.com/48946643/177409173-b4083d00-1ce9-47d5-92e5-eb86dbaab328.PNG)
-![Capturea](https://user-images.githubusercontent.com/48946643/177409192-fff55156-76c5-48d6-97ed-1da7d46ef83c.PNG)
 ![Captured](https://user-images.githubusercontent.com/48946643/177409206-a45cb04c-99b5-43a0-bb4f-9ea6d856397c.PNG)
