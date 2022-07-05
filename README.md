@@ -21,6 +21,6 @@ I looked at the distribution of the data and the value counts for various catego
 
 ![Capture](https://user-images.githubusercontent.com/48946643/177407333-43e367c2-b082-400e-8f68-674d31b27655.PNG)
 ![Capturee](https://user-images.githubusercontent.com/48946643/177407553-942dcf41-dd0d-453d-a799-bbe8f0e89523.PNG)
-![Capturej](https://user-images.githubusercontent.com/48946643/177407638-8e75ce70-fd74-4848-93ca-02642ff3c3a7.PNG)
-![capturel](https://user-images.githubusercontent.com/48946643/177407652-39d5513a-5661-4178-a021-0be41f34b98c.PNG)
-![Capturey](https://user-images.githubusercontent.com/48946643/177407666-6a8fd7e1-90da-4720-908a-efd3f7bb3d52.PNG)
+![Capturell](https://user-images.githubusercontent.com/48946643/177408287-011a817a-8c34-44c2-a774-8a1640e13191.PNG)
+![Captureeee](https://user-images.githubusercontent.com/48946643/177408350-db829240-cb2c-4951-9d76-ef32b749c3a4.PNG)
+![Capturey](https://user-images.githubusercontent.com/48946643/177408395-4da59c07-f2ad-4de0-9ef0-76a3d26799ea.PNG)
