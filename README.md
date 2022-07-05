@@ -19,3 +19,8 @@ After downloading the data from GitHub, I needed to clean the data so that I can
 ## Exporatory Data analysis
 I looked at the distribution of the data and the value counts for various categorical values. After analyzing the data using python, I visualized it on Jupiter notebook and also on power BI, and below are the visualization preview.
 
+![Capture](https://user-images.githubusercontent.com/48946643/177407333-43e367c2-b082-400e-8f68-674d31b27655.PNG)
+![Capturee](https://user-images.githubusercontent.com/48946643/177407553-942dcf41-dd0d-453d-a799-bbe8f0e89523.PNG)
+![Capturej](https://user-images.githubusercontent.com/48946643/177407638-8e75ce70-fd74-4848-93ca-02642ff3c3a7.PNG)
+![capturel](https://user-images.githubusercontent.com/48946643/177407652-39d5513a-5661-4178-a021-0be41f34b98c.PNG)
+![Capturey](https://user-images.githubusercontent.com/48946643/177407666-6a8fd7e1-90da-4720-908a-efd3f7bb3d52.PNG)
