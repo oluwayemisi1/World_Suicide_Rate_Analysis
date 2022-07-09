@@ -1,4 +1,4 @@
-# Suicide_Rate Case Study and Visualizations
+# Suicide_Rate Analysis and Visualizations
 
 
 
