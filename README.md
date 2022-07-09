@@ -24,3 +24,5 @@ I looked at the distribution of the data and the value counts for various catego
 ![Capturee](https://user-images.githubusercontent.com/48946643/177407553-942dcf41-dd0d-453d-a799-bbe8f0e89523.PNG)
 ![Capture](https://user-images.githubusercontent.com/48946643/177409173-b4083d00-1ce9-47d5-92e5-eb86dbaab328.PNG)
 ![Captured](https://user-images.githubusercontent.com/48946643/177409206-a45cb04c-99b5-43a0-bb4f-9ea6d856397c.PNG)
+
+Checkout the full project here: https://github.com/oluwayemisi1/World_Suicide_Rate/blob/main/suicides%20Rate%20(1).ipynb
