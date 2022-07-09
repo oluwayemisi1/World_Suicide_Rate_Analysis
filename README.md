@@ -1,5 +1,5 @@
-# World_Suicide_Rate from year 1987-2016
-This repository is a case study , analysis and visualization of Suicide Rate using python and Power BI
+# World_Suicide_Rate and Visualizations
+
 
 
 ## Description 
