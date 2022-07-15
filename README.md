@@ -1,28 +1,52 @@
-# Suicide_Rate Analysis and Visualizations
-
-
-
-## Description 
+# Introduction
 Suicide rate is a serious public problem. It is the act of intentionally causing one’s own death. The world health organization estimated that over 700,000 dies due to suicide every year. Many suicide happens impulsively in moments of crisis with a breakdown in the ability to deal with the stress of life. suicide was the second leading cause of death among the 25-35 year sold globally in 2016. Hence it is quite clear that suicide is a global concern that should be analyzed.
 Hence, this project contains a case study, analysis and visualization of Suicide rate of some part of the country. 
 
-## Code and resources used for this project 
-* I used Jupiter notebook
-* Packages used : pandas , numpy, seaborn, matplotlib
-* You can access this dataset using this link : https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
+##Contents
+1. Aim
+2. Data Sourcing 
+3. Data Cleaning
+4. Exporatory Data Analysis
+5. Data Visualization
+6. Findings and Recommendation
 
-## Data Cleaning
-After downloading the data from GitHub, I needed to clean the data so that I can perform Exploratory data analysis. I made the following changes. 
-*	Renamed some column names 
-*	Removed duplicate column and column not needed
-* Checked for outliers and cleaned it.
+## Aim
+my Aim of doing this project is to get valuable and meaningful insight of how the Suicide Rate has increased or decreased across the countries listed. 
 
-## Exporatory Data analysis
-I looked at the distribution of the data and the value counts for various categorical values. After analyzing the data using python, I visualized it on Jupiter notebook and also on power BI, and below are the visualization preview.
+# Resources and code  used for this project 
+** The dataset i used was gottem from Kaggle, which includes (27820 Rows and 10 Columns) and the columns were made of 
+* Country : The number of 
+* year
+* sex
+* age 
+* generation : 
+* suicides_no : The number of suicide.
+* population : the Total number of people.
+* suicides/100k pop: The number of the death by suicide for a total 100.00 deaths
+* country-year
+* HDI for year : The Human Development index of the year
+* gdp_for_year($) :Domestic Product per capital  
+* gdp_per_capita($) : Gross Domestic Product divided by midyear population
+* The analyis was done using Python programming language, on jupiter notebook for both analysis and visualization.
+** Packages used : 
+* PANDAS: i used pandas to import my dataset and handle the messy data , NUMPY: was used it to work on array and for mathmatical operations, SEABORN and MATPLOTLB was used for the visualization 
 
-![Capture](https://user-images.githubusercontent.com/48946643/177407333-43e367c2-b082-400e-8f68-674d31b27655.PNG)
-![Capturee](https://user-images.githubusercontent.com/48946643/177407553-942dcf41-dd0d-453d-a799-bbe8f0e89523.PNG)
-![Capture](https://user-images.githubusercontent.com/48946643/177409173-b4083d00-1ce9-47d5-92e5-eb86dbaab328.PNG)
-![Captured](https://user-images.githubusercontent.com/48946643/177409206-a45cb04c-99b5-43a0-bb4f-9ea6d856397c.PNG)
+# Data Cleaning
+After downloading the data from GitHub, I needed to clean the data in order to  perform an Exploratory data analysis. First i checked for missing data and discovered there were some missing data i needed to fix which i did using pandas. I renamed some columns which were misspelt and replaced the space in the columns with underscore,i also dropped a duplicated column.I detected outliers and removed it. 
 
-Checkout the full project here: https://github.com/oluwayemisi1/World_Suicide_Rate/blob/main/suicides%20Rate%20(1).ipynb
+# Exporatory Data Analysis
+I looked at the distribution of the data and the value counts for various categorical values. After analyzing the data using python.
+** I grouped some columns inorder to get an insight of the data and visualize 
+1. Group by year and Suicide : At what yeat was the suicide number high?
+2. Group by Age and Suicide_no : What age commits Suicide more? 
+3. Group by Country and population : What Country has the highest number of population?
+4. Group by Year and Suicide_pop : In what year was the suicide_pop high?
+5. Group by Sex and Suicide_no : what Gender commits suicide more?
+6. Group by Generation ad Suicide_no : Which Generation commited Suicide more?
+
+# Data Visualization 
+After exploring the data, i then visualized it on Jupiter notebook and also on power BI.
+Checkout the full project here[Suicide_Rate(1987-2016](https://github.com/oluwayemisi1/World_Suicide_Rate/blob/main/suicides%20Rate%20(1).ipynb).
+
+# Findings and Recommendations
+
