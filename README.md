@@ -2,7 +2,7 @@
 Suicide rate is a serious public problem. It is the act of intentionally causing one’s own death. The world health organization estimated that over 700,000 dies due to suicide every year. Many suicide happens impulsively in moments of crisis with a breakdown in the ability to deal with the stress of life. suicide was the second leading cause of death among the 25-35 year sold globally in 2016. Hence it is quite clear that suicide is a global concern that should be analyzed.
 Hence, this project contains a case study, analysis and visualization of Suicide rate of some part of the country. 
 
-##Contents
+## Contents
 1. Aim
 2. Data Sourcing 
 3. Data Cleaning
