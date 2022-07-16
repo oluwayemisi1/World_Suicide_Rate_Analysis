@@ -13,7 +13,7 @@ Hence, this project contains a case study, analysis and visualization of Suicide
 ## Aim
 My aim of doing this project is to get valuable and meaningful insight of how the Suicide Rate has increased or decreased across the countries. 
 
-# Resources and code  used for this project 
+# Resources and code used
 **The dataset i used was gottem from Kaggle, which includes (27820 Rows and 10 Columns) and the columns were made of:**
 * Country
 * year
