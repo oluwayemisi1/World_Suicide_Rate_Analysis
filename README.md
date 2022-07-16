@@ -14,7 +14,7 @@ Hence, this project contains a case study, analysis and visualization of Suicide
 My aim of doing this project is to get valuable and meaningful insight of how the Suicide Rate has increased or decreased across the countries listed. 
 
 # Resources and code  used for this project 
-** The dataset i used was gottem from Kaggle, which includes (27820 Rows and 10 Columns) and the columns were made of:
+**The dataset i used was gottem from Kaggle, which includes (27820 Rows and 10 Columns) and the columns were made of:
 * Country
 * year
 * sex
@@ -29,7 +29,7 @@ My aim of doing this project is to get valuable and meaningful insight of how th
 * gdp_per_capita($) : Gross Domestic Product divided by midyear population
 * The analyis was done using Python programming language, on jupiter notebook for both analysis and visualization.
 
-** Packages used : 
+**Packages used: 
 * PANDAS: i used pandas to import my dataset and handle the messy data , NUMPY: was used it to work on array and for mathmatical operations, SEABORN and MATPLOTLB was used for the visualization 
 
 # Data Cleaning
@@ -37,7 +37,7 @@ After downloading the data from GitHub, I needed to clean the data in order to  
 
 # Exporatory Data Analysis
 I looked at the distribution of the data and the value counts for various categorical values. After analyzing the data using python.
-** I grouped some columns inorder to get an insight of the data and visualize 
+**I grouped some columns inorder to get an insight of the data and visualize 
 1. Group by year and Suicide : At what yeat was the suicide number high?
 2. Group by Age and Suicide_no : What age commits Suicide more? 
 3. Group by Country and population : What Country has the highest number of population?
