@@ -1,3 +1,5 @@
+![Uploading IMG_5615.JPG…]()
+
 # Introduction
 Suicide rate is a serious public problem. It is the act of intentionally causing one’s own death. The world health organization estimated that over 700,000 dies due to suicide every year. Many suicide happens impulsively in moments of crisis with a breakdown in the ability to deal with the stress of life. suicide was the second leading cause of death among the 25-35 year sold globally in 2016. Hence it is quite clear that suicide is a global concern that should be analyzed.
 Hence, this project contains a case study, analysis and visualization of Suicide rate of some part of the country. 
@@ -51,5 +53,9 @@ Checkout the full project here [Suicide_Rate(1987-2016)](https://github.com/oluw
 ![suicide](https://user-images.githubusercontent.com/48946643/185417434-7baac0c7-20d2-4f38-b07e-9ad050a5bfb5.PNG)
 
 
-# Findings and Recommendations
-
+# CONCLUSIONS
+After analyzing the suicide rate from the year 1985 to 2016 I finally came to a conclusion that:
+•	United State had the highest number of suicide rate between the year 1985 to 2016 and also with the highest population compared to the rest of the countries in the data set.
+•	 Countries such as Dominica and Saint Kitts and Nevis has no suicide cases, which could probably be that there were high preventive measures that were taken to avoid cases of suicide. And the country with the lowest suicide case is San Marino, with a population of 78,825 compared to the highest population which is 8,054,027,201.
+•	The analysis shows that the older Male and female of age 35-54 committed suicide more, also age 5-15 has the lowest suicide rate, which is likely that the male and female of these set of age group might not commit suicide.
+•	Amongst others generation of age 55-74, Boomers generation commits suicide more. And Generation Z has the lowest number of suicide.
