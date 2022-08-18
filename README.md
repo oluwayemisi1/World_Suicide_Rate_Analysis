@@ -30,7 +30,7 @@ My aim of doing this project is to get valuable and meaningful insight of how th
 * The analyis was done using Python programming language, on jupiter notebook for both analysis and visualization.
 
 **Packages used:**
-* PANDAS: i used pandas to import my dataset and handle the messy data , NUMPY: was used it to work on array and for mathmatical operations, SEABORN and MATPLOTLB was used for the visualization 
+* PANDAS: i used pandas to import my dataset and handle the messy data , NUMPY: was used it to work on array and for mathmatical operations, SEABORN and MATPLOTLIB was used for the visualization 
 
 # Data Cleaning
 After downloading the data from Kaggle, I needed to clean the data in order to  perform an Exploratory data analysis. First i checked for missing data and discovered there were some missing data i needed to fix which i did using pandas. I renamed some columns which were misspelt and replaced the space in the columns with underscore,i also dropped a duplicated column.I detected outliers and removed it. 
