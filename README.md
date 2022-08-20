@@ -27,7 +27,7 @@ My aim of doing this project is to get valuable and meaningful insight of how th
 * HDI for year : The Human Development index of the year
 * gdp_for_year($) :Domestic Product per capital  
 * gdp_per_capita($) : Gross Domestic Product divided by midyear population
-* The analyis was done using Python programming language, on jupiter notebook for both analysis and visualization.
+The analyis was done using Python programming language, on jupiter notebook for both analysis and visualization.
 
 **Packages used:**
 * PANDAS: i used pandas to import my dataset and handle the messy data , NUMPY: was used it to work on array and for mathmatical operations, SEABORN and MATPLOTLIB was used for the visualization 
